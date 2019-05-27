@@ -1,0 +1,67 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "EdhxjiAtEoFLKk/r1NvsgEDC9bo=",
+			"path": "github.com/InVisionApp/go-logger",
+			"revision": "753dc5832ddec755df724992c1c3b0f7a288e0aa",
+			"revisionTime": "2018-11-13T17:26:54Z"
+		},
+		{
+			"checksumSHA1": "vTFE05z25gKM3F8qfIGBqJhfEoM=",
+			"path": "github.com/joelhill/go-rest-http-blaster",
+			"revision": "a894202e89e7787d37c34d85f46f14b621213453",
+			"revisionTime": "2019-01-05T06:20:57Z",
+			"version": "v5.2.3",
+			"versionExact": "v5.2.3"
+		},
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "6EIQaeaWECn3zlechdGkqmIKld4=",
+			"path": "github.com/opentracing/opentracing-go",
+			"revision": "659c90643e714681897ec2521c60567dd21da733",
+			"revisionTime": "2019-03-23T20:25:03Z"
+		},
+		{
+			"checksumSHA1": "tnkdNJbJxNKuPZMWapP1xhKIIGw=",
+			"path": "github.com/opentracing/opentracing-go/log",
+			"revision": "659c90643e714681897ec2521c60567dd21da733",
+			"revisionTime": "2019-03-23T20:25:03Z"
+		},
+		{
+			"checksumSHA1": "SVO+Zm6SNwWrpgyc6mcTXbH4aJ8=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "2a22dbedbad1fd454910cd1f44f210ef90c28464",
+			"revisionTime": "2019-05-18T13:52:02Z",
+			"version": "master",
+			"versionExact": "master"
+		},
+		{
+			"checksumSHA1": "Zsm3tvgRFJOt3afwwhrGymcSZgg=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "22d7a77e9e5f409e934ed268692e56707cd169e5",
+			"revisionTime": "2019-04-19T16:04:53Z",
+			"version": "master",
+			"versionExact": "master"
+		},
+		{
+			"checksumSHA1": "ym3agXn+ZCVbIFTX6qUhJL/m28A=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "791d8a0f4d093bd8fe272dea2cd28991154796fb",
+			"revisionTime": "2019-05-25T13:13:12Z"
+		},
+		{
+			"checksumSHA1": "8caFNg+6dRy75Jz+AD1sLEWAxBE=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "791d8a0f4d093bd8fe272dea2cd28991154796fb",
+			"revisionTime": "2019-05-25T13:13:12Z"
+		}
+	],
+	"rootPath": "github.com/joelhill/the-rundown-api-go"
+}
