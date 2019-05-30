@@ -15,7 +15,11 @@ const (
 
 // IService - all functions that implement the My Sports Feed Service Interface.
 type IService interface {
-	
+	NewEventBySportOptions() *EventBySportOptions
+	EventBySport(options *EventBySportOptions) (TheRunDownAPILines, int, error)
+
+	NewEventBySportByDateOptions() *EventBySportByDateOptions
+	EventBySportByDate(options *EventBySportByDateOptions) (TheRunDownAPILines, int, error)
 }
 
 // Service - dependencies for the my sports feed service
@@ -56,4 +60,3 @@ func NewService(config *Config) *Service {
 		Logger: lg,
 	}
 }
- 
