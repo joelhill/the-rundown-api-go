@@ -122,7 +122,7 @@ type TeamsNormalized struct {
 	Abbreviation string `json:"abbreviation"`
 	IsAway       bool   `json:"is_away"`
 	IsHome       bool   `json:"is_home"`
-	Ranking      string `json:"ranking"`
+	Ranking      int    `json:"ranking"`
 	Record       string `json:"record"`
 }
 
